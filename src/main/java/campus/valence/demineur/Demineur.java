@@ -1,5 +1,7 @@
 package campus.valence.demineur;
 
+import campus.valence.demineur.cases.Case;
+
 public class Demineur {
 
     public static Demineur create(int bombCount, int boardSize) {
